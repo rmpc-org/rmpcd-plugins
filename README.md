@@ -13,6 +13,7 @@ have a look at the [plugin guide][2] and the [Lua API reference][3].
 ## Plugins
 
 * [Scrobbling to Libre.fm](https://github.com/kelvinkellner/rmpcd-librefm)
+* [Scrobbling to ListenBrainz](https://github.com/valentynkit/rmpcd-listenbrainz)
 * [Increment `playCount` at end of song](https://github.com/rmunn/rmpcd-plugin-playcount)
 * [Track last played time](https://github.com/rmpc-org/rmpcd-lastplayed)
 
