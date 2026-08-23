@@ -17,6 +17,7 @@ have a look at the [plugin guide][2] and the [Lua API reference][3].
 * [Increment `playCount` at end of song](https://github.com/rmunn/rmpcd-plugin-playcount)
 * [Track last played time](https://github.com/rmpc-org/rmpcd-lastplayed)
 * [Sleep timer](https://github.com/v-Nyo/rmpcd-plugin-sleep-timer) - Stops playback after a set (prompted) time
+* [Favorites with synced playlists](https://github.com/Strykar/rmpcd-favorites) - Heart songs from any MPD client; all, most played and recent lists stay current
 
 ## Contributing
 
